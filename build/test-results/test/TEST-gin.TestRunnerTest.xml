@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="gin.TestRunnerTest" tests="4" skipped="0" failures="0" errors="0" timestamp="2017-09-30T10:45:17" hostname="brad-virtual-machine" time="0.978">
+  <properties/>
+  <testcase name="copySource" classname="gin.TestRunnerTest" time="0.087"/>
+  <testcase name="ensureDirectory" classname="gin.TestRunnerTest" time="0.029"/>
+  <testcase name="compile" classname="gin.TestRunnerTest" time="0.847"/>
+  <testcase name="testRunner" classname="gin.TestRunnerTest" time="0.011"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

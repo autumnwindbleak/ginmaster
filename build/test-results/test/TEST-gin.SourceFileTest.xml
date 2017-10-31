@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="gin.SourceFileTest" tests="7" skipped="0" failures="0" errors="0" timestamp="2017-09-30T10:45:18" hostname="brad-virtual-machine" time="0.082">
+  <properties/>
+  <testcase name="getStatementCount" classname="gin.SourceFileTest" time="0.036"/>
+  <testcase name="statementList" classname="gin.SourceFileTest" time="0.009"/>
+  <testcase name="getSource" classname="gin.SourceFileTest" time="0.005"/>
+  <testcase name="getNumberOfBlocks" classname="gin.SourceFileTest" time="0.007"/>
+  <testcase name="getFilename" classname="gin.SourceFileTest" time="0.01"/>
+  <testcase name="getCompilationUnit" classname="gin.SourceFileTest" time="0.005"/>
+  <testcase name="getNumberOfInsertionPointsInBlock" classname="gin.SourceFileTest" time="0.002"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="gin.PatchTest" tests="8" skipped="0" failures="0" errors="0" timestamp="2017-09-30T10:45:17" hostname="brad-virtual-machine" time="0.19">
+  <properties/>
+  <testcase name="testClone" classname="gin.PatchTest" time="0.006"/>
+  <testcase name="testToString" classname="gin.PatchTest" time="0.006"/>
+  <testcase name="remove" classname="gin.PatchTest" time="0.004"/>
+  <testcase name="add" classname="gin.PatchTest" time="0.02"/>
+  <testcase name="size" classname="gin.PatchTest" time="0.005"/>
+  <testcase name="apply" classname="gin.PatchTest" time="0.088"/>
+  <testcase name="addRandomEdit" classname="gin.PatchTest" time="0.005"/>
+  <testcase name="writePatchedSourceToFile" classname="gin.PatchTest" time="0.033"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
